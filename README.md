@@ -7,3 +7,5 @@ Hoping to add some sort of initial pop-up window with a username and password pr
 another note: if using a VM on a laptop, then when you connect to the AP created, you wont have internet on the connected device, unless you have another source of internet connectio for the device emitting the AP, so i have an ethernet plugged into my laptop to overcome this, not really an issue since it's just how the AP works, to route all traffic theough to the laptop, with the wifi card only serving as an emitter//middleman
 
 pretty cool script though, made up of the induvidual commands i was shown in some youtube tutorial, will link here if i can find it again. with some added optimization and end-user friendlyness, so now ANYONE can make their own fake wifi !!! Hurray for the internet :P
+
+after download `chmod +x FakeAP.sh` to add permissions
